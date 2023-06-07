@@ -6,3 +6,8 @@ body{
 	display:flex;
 	flex-direction:column;
 }
+
+.player_two{
+	display:flex;
+	justify-content:center;
+}
