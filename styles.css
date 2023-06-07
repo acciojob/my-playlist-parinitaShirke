@@ -2,9 +2,12 @@
 body{
 	background-color : #cccccc;
 }
-.player_one{
-	display:flex;
-	flex-direction:column;
+
+.player-one{
+	background-color :rgb(255, 255, 255);
+}
+li{
+	list-style-type:none;
 }
 
 .player_two{
@@ -15,4 +18,8 @@ body{
 h1,h2{
 	display:flex;
 	justify-content:center;
+}
+
+a{
+	text-decoration-line:none;
 }
